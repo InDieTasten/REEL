@@ -4,6 +4,12 @@
 
 The `<REEL>` tag is the top level tag that declares the scope of a REEL document.
 
+## Category
+
+The `<REEL>` tag classifies as:
+  - Container tag
+  - Meta tag
+
 ## Basic usage
 ```xml
 <REEL>
