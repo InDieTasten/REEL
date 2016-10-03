@@ -20,7 +20,7 @@ The `<HEAD>` tag does not provide attributes meaningful to the specification.
 
 ### Exclusive parent
 
-The `<HEAD>` tag MUST always be direct parent of the `<REEL>` tag
+The `<HEAD>` tag MUST always be direct child of the `<REEL>` tag
 
 ### Single instance
 
