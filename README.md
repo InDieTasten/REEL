@@ -18,13 +18,13 @@ REEL is mainly designed to enable a more productive development flow for Compute
 Checked items are on the roadmap to be included in version 1.0
 
 - HTML-like layouting
-    -[ ] inputs
-    -[ ] tables
-    -[ ] forms
+    - [x] inputs
+    - [x] tables
+    - [x] forms
 - CSS-like styling
-    -[ ] selectors
-    -[ ] media queries
+    - [ ] selectors
+    - [ ] media queries
 - JavaScript-like programming
-    -[ ] dom api
-    -[ ] alax
+    - [ ] dom api
+    - [ ] alax
 
