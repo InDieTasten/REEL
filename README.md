@@ -25,6 +25,7 @@ Checked items are on the roadmap to be included in version 1.0
 - CSS-like styling
     - [x] selectors
     - [x] media queries
+    - [x] (animations)
 - JavaScript-like programming
     - [x] dom api
     - [x] alax
