@@ -21,10 +21,11 @@ Checked items are on the roadmap to be included in version 1.0
     - [x] inputs
     - [x] tables
     - [x] forms
+    - [x] images
 - CSS-like styling
-    - [ ] selectors
-    - [ ] media queries
+    - [x] selectors
+    - [x] media queries
 - JavaScript-like programming
-    - [ ] dom api
-    - [ ] alax
+    - [x] dom api
+    - [x] alax
 
